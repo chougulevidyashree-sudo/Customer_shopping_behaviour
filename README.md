@@ -54,5 +54,8 @@ Sample dataset includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
- link: "C:\Users\vidyashree\Favorites\Downloads\power_BI\dashboard_picture.png"
+[View Dashboard Screenshot](https://github.com/chougulevidyashree-sudo/Customer_shopping_behaviour/blob/main/dashboard_picture.png)
+
+
+
 
