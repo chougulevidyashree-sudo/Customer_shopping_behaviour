@@ -54,5 +54,5 @@ Sample dataset includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-shopping-behaviour.git
+ link: "C:\Users\vidyashree\Favorites\Downloads\power_BI\dashboard_picture.png"
 
