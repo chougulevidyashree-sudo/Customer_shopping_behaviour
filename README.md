@@ -54,7 +54,9 @@ Sample dataset includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-[View Dashboard Screenshot](https://github.com/chougulevidyashree-sudo/Customer_shopping_behaviour/blob/main/dashboard_picture.png)
+[View Dashboard Screenshot]  <img width="623" height="368" alt="dashboard_picture" src="https://github.com/user-attachments/assets/45f34388-4b99-40f1-a30a-c497f3275e54" />
+
+- <a href= "https://github.com/chougulevidyashree-sudo/Customer_shopping_behaviour/blob/main/dashboard_picture.png"
 
 
 
